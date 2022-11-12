@@ -51,8 +51,8 @@ header
     height: 100%
     width: 20%
     &-image
-        height: 100%
-        //width: 60%
+        height: 80%
+        margin-left: 5%
     &-arrow
         display: flex
         align-items: center
